@@ -1,0 +1,8 @@
+[bot]
+prefix = "toml "
+token = ""
+github = ""
+
+[regexs]
+pastebin = "(https://pastebin.com/raw/[a-zA-Z0-9]{8})"
+block = "`{3}(json|js)?(.*)`{3}"
